@@ -53,6 +53,7 @@ WebSocket.Connect
 WebSocket.connect
 WriteEclipseKey
 WriteFile
+__EclipseLayout.SideBar.EmptyCallback
 appendfile
 base64.decode
 base64.encode
