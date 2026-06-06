@@ -6,7 +6,6 @@ DoFile
 Drawing.clear
 Drawing.cleardrawcache
 Drawing.new
-EclipseVerifyKey
 GetClipBoard
 GetConstant
 GetConstants
@@ -42,18 +41,13 @@ MouseMoveAbs
 MouseMoveRel
 MouseMoveRelative
 MouseScroll
-OpenEclipseDiscord
-ReadEclipseKey
 ReadFile
-RunScript
 SetConstant
 SetStack
 SetUpvalue
 WebSocket.Connect
 WebSocket.connect
-WriteEclipseKey
 WriteFile
-__EclipseLayout.SideBar.EmptyCallback
 appendfile
 base64.decode
 base64.encode
@@ -137,7 +131,6 @@ debug.setstack
 debug.setupvalue
 debug.traceback
 decompile
-deleteTab
 delfile
 delfolder
 dofile
@@ -154,8 +147,6 @@ fireproximityprompt
 firesignal
 firetouchinterest
 getObjects
-getSavedKey
-getTabs
 get_callback_member
 get_callback_value
 get_calling_script
@@ -265,9 +256,7 @@ mousescroll
 new_c_closure
 newcclosure
 queue_on_teleport
-readTab
 readfile
-renameTab
 replaceclosure
 request
 require
@@ -292,6 +281,4 @@ setthreadidentity
 setupvalue
 to_clipboard
 toclipboard
-verifyKey
-writeToTab
 writefile
