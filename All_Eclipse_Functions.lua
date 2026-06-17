@@ -258,6 +258,7 @@ newcclosure
 queue_on_teleport
 readfile
 replaceclosure
+replicatesignal
 request
 require
 restorefunction
