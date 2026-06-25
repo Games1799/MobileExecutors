@@ -152,6 +152,7 @@ get_callback_value
 get_calling_script
 get_clip_board
 get_connections
+get_fps_cap
 get_hidden_gui
 get_hidden_property
 get_hidden_ui
@@ -176,6 +177,7 @@ getconstant
 getconstants
 getcustomasset
 getexecutorname
+getfpscap
 getfunctionhash
 getgc
 getgenv
@@ -256,6 +258,7 @@ mousescroll
 new_c_closure
 newcclosure
 queue_on_teleport
+queueonteleport
 readfile
 replaceclosure
 replicatesignal
@@ -263,12 +266,14 @@ request
 require
 restorefunction
 set_clipboard
+set_fps_cap
 set_hidden_property
 set_scriptable
 set_thread_context
 set_thread_identity
 setclipboard
 setconstant
+setfpscap
 sethiddenproperty
 setidentity
 setnamecallmethod
