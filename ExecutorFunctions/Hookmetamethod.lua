@@ -1,5 +1,6 @@
 local UseNewCclosure = true -- true / false
 local CreateCFunction = true -- true / false
+local CreateAliases = true -- true / false 
 
 local newcclosure = newcclosure or new_c_closure or function(a) return a end
 local newcclosure2 = newcclosure
@@ -10,7 +11,7 @@ if UseNewCclosure == false then
    end
 end
 
-if CreateCFunction == false then
+if newcclosure2 == false then
    newcclosure2 = function(a) 
       return a
    end
@@ -135,3 +136,9 @@ getgenv().hookmetamethod = newcclosure2(function(table, method, func)
       return old
    end
 end)
+
+if CreateAliases == true then
+   getgenv().hook_meta_method = getgenv().hookmetamethod
+   getgenv().HookMetaMethod = getgenv().hookmetamethod
+   getgenv().Hook_Meta_Method = getgenv().hookmetamethod
+end
