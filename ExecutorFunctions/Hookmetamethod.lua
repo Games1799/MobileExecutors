@@ -10,7 +10,7 @@ if UseNewCclosure == false then
    end
 end
 
-if newcclosure2 == false then
+if CreateCFunction == false then
    newcclosure2 = function(a) 
       return a
    end
