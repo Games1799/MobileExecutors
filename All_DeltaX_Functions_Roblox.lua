@@ -189,6 +189,7 @@ getfunctionhash
 getsafedir
 isexecutorclosure
 is_l_closure
+isnewcclosure
 delfolder
 getgenv
 bit.band
@@ -265,3 +266,5 @@ get_thread_identity
 queueonteleport
 set_fps_cap
 getcallbackvalue
+setstackhidden
+raknet.desync
