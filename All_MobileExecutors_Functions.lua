@@ -383,6 +383,7 @@ httppost
 identifyexecutor
 infouiconsole
 is_c_closure
+isnewcclosure
 is_delta_closure
 is_eclipse_closure
 is_executor_closure
@@ -520,6 +521,7 @@ set_scriptable
 set_secure_instance
 set_thread_context
 set_thread_identity
+setstackhidden
 setclipboard
 setclosurecaps
 setclosureidentity
