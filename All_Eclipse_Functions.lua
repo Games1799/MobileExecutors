@@ -80,6 +80,7 @@ clear_drawing_lib
 cleardrawcache
 clone_ref
 clone_reference
+clonefunc
 clonefunction
 cloneref
 clonereference
@@ -214,6 +215,7 @@ getthreadidentity
 getupvalue
 getupvalues
 getuserdatatag
+hook_meta_method
 hookfunction
 hookmetamethod
 http.http_request
@@ -249,6 +251,8 @@ lz4decompress
 make_readonly
 make_writable
 makefolder
+makereadonly
+makewritable
 mouse1click
 mouse1press
 mouse1release
@@ -268,6 +272,7 @@ restorefunction
 set_clipboard
 set_fps_cap
 set_hidden_property
+set_namecall_method
 set_scriptable
 set_thread_context
 set_thread_identity
@@ -278,6 +283,7 @@ sethiddenproperty
 setidentity
 setnamecallmethod
 setrawmetatable
+setrbxclipboard
 setreadonly
 setrenderproperty
 setscriptable
