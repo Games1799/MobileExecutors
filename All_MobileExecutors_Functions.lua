@@ -1,4 +1,4 @@
---[[ Delta X – 🔴 Arceus X – 🟠 CodeX – 🟡 Vega X – 🟢 Trigon – 🔵 Eclipse – 🟣]] 
+--[[ Delta X – 🔴 Arceus X – 🟠 CodeX – 🟡 Vega X – 🟢 Trigon – 🔵 Eclipse – 🟣 ]] 
 debug.getproto --[[🟢🟣🔵🔴🟠🟡]]
 bit.arshift --[[🟢🟣🔵🔴🟠🟡]]
 Delta.is_android --[[🔴]]
