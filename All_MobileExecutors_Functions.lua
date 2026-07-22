@@ -1,558 +1,590 @@
-AppendFile
-CheckCaller
-DelFile
-DelFolder
-Delta.architecture
-Delta.get_platform
-Delta.is_android
-Delta.is_ios
-Delta.is_mac
-Delta.is_vng
-Delta.roblox_version
-Delta.version
-Delta.version_hash
-Delta.version_num
-DeltaSignal.new
-DevConnect
-DoFile
-Drawing.clear
-Drawing.cleardrawcache
-Drawing.new
-GetClipBoard
-GetConstant
-GetConstants
-GetGC
-GetGenv
-GetInfo
-GetObjects
-GetProto
-GetProtos
-GetRenv
-GetStack
-GetUpvalue
-GetUpvalues
-HookMetaMethod
-HttpGet
-Input.KeyDown
-Input.KeyPress
-Input.KeyUp
-Input.LeftClick
-Input.MoveMouse
-Input.RightClick
-Input.ScrollMouse
-IsFile
-IsFolder
-IsKeyDown
-KeyDown
-KeyPress
-KeyRelease
-ListFiles
-LoadFile
-MakeFolder
-MakeReadonly
-MakeWritable
-Mouse1Click
-Mouse1Press
-Mouse1Release
-MouseMove
-MouseMoveABS
-MouseMoveAbs
-MouseMoveRel
-MouseMoveRelative
-MouseScroll
-QWIKEWJWOAZOAOSXKEUIEOWJMZAJZHNXKJCBUFOEN
-ReadFile
-SJEIEWOWOQAPOAOAKSJM
-SetConstant
-SetStack
-SetUpvalue
-Signal.new
-WebSocket.Connect
-WebSocket.connect
-WriteFile
-_G.Spopup
-_G.clearScriptContainer
-_G.load_rs_scripts
-_G.popup
-_G.toggleMain
-actor.get_actors
-actor.getactors
-actor.is_parallel
-actor.isparallel
-actor.run
-actor.run_on_actor
-appendfile
-arceus.EOWOWQPQPPALSKSNX
-arceus.SDKEUIEWOWOASKS
-arceus.UJSWOOALSKDSJEO
-arceus.WHWKIIIIWIIOSU
-arceus.WHWKIIIWIIOSU
-arceus.WHWKIIWIIOSU
-arceus.WHWKIWIIOSU
-arceus.WHWKIWIOSU
-arceus.WOWPALAKSZMNXBRU
-arceus.crash
-arceus.delarceusfile
-arceus.delarceusfolder
-arceus.deletearceusfile
-arceus.deletearceusfolder
-arceus.deletecustomasset
-arceus.encrypted
-arceus.getcreationtime
-arceus.getfilesize
-arceus.getmodificationtime
-arceus.getversion
-arceus.is_vng
-arceus.isarceusfile
-arceus.isarceusfolder
-arceus.iscustomasset
-arceus.ispermissiongranted
-arceus.listarceusfiles
-arceus.makearceusfolder
-arceus.openurl
-arceus.readarceusfile
-arceus.retrievecustomasset
-arceus.show_toast
-arceus.writearceusfile
-arceus.writecustomasset
-base64.decode
-base64.encode
-base64_decode
-base64_encode
-base64decode
-base64encode
-bit.arshift
-bit.badd
-bit.band
-bit.bdiv
-bit.bmul
-bit.bnot
-bit.bor
-bit.bsub
-bit.bswap
-bit.btest
-bit.bxor
-bit.byteswap
-bit.countlz
-bit.countrz
-bit.extract
-bit.lrotate
-bit.lshift
-bit.replace
-bit.rol
-bit.ror
-bit.rrotate
-bit.rshift
-bit.tobit
-bit.tohex
-cache.cloneref
-cache.compareinstances
-cache.invalidate
-cache.is_cached
-cache.iscached
-cache.replace
-cansignalreplicate
-checkcaller
-checkclosure
-checkparallel
-clear_drawing_lib
-clear_teleport_queue
-cleardrawcache
-clearqueueonteleport
-clearteleportqueue
-clone_ref
-clone_reference
-clonefunc
-clonefunction
-cloneref
-clonereference
-compareinstances
-consoleclear
-consolecreate
-consoledestroy
-consoleerr
-consoleerror
-consoleinfo
-consoleinput
-consoleprint
-consolesettitle
-consoleshow
-consolewarn
-create_comm_channel
-create_secure_folder
-createsecurefolder
-crypt.base64.decode
-crypt.base64.encode
-crypt.base64_decode
-crypt.base64_encode
-crypt.base64decode
-crypt.base64encode
-crypt.decrypt
-crypt.encrypt
-crypt.generatebytes
-crypt.generatekey
-crypt.hash
-crypt.hmac
-crypt.lz4compress
-crypt.lz4decompress
-crypt.random
-debug.GetConstant
-debug.GetConstants
-debug.GetInfo
-debug.GetProto
-debug.GetProtos
-debug.GetRegistry
-debug.GetStack
-debug.GetUpvalue
-debug.GetUpvalues
-debug.SetConstant
-debug.SetStack
-debug.SetUpvalue
-debug.dumpcodesize
-debug.dumpheap
-debug.dumprefs
-debug.getconstant
-debug.getconstants
-debug.getinfo
-debug.getmemorycategory
-debug.getmetatable
-debug.getproto
-debug.getprotos
-debug.getrawmetatable
-debug.getregistry
-debug.getstack
-debug.getupvalue
-debug.getupvalues
-debug.info
-debug.isvalidlevel
-debug.loadmodule
-debug.profilebegin
-debug.profileend
-debug.resetmemorycategory
-debug.setconstant
-debug.setmemorycategory
-debug.setmetatable
-debug.setproto
-debug.setrawmetatable
-debug.setstack
-debug.setupvalue
-debug.traceback
-debug.validlevel
-decompile
-deletefile
-deletefolder
-delfile
-delfolder
-detour_function
-detourfunction
-disableconnection
-dofile
-dump_string
-dumpstring
-emulate_call
-enableconnection
-erroruiconsole
-executeclipboard
-executecode
-filter_gc
-filtergc
-fire_click_detector
-fire_proximity_prompt
-fire_signal
-fire_touch_interest
-fireclickdetector
-fireproximityprompt
-firesignal
-firetouchinterest
-fromclipboard
-getObjects
-get_actors
-get_callback_member
-get_callback_value
-get_calling_script
-get_clip_board
-get_comm_channel
-get_connections
-get_fps_cap
-get_gc_objects
-get_hidden_gui
-get_hidden_property
-get_hidden_ui
-get_instances
-get_loaded_modules
-get_modules
-get_namecall_method
-get_nil_instances
-get_objects
-get_running_scripts
-get_script_bytecode
-get_script_closure
-get_script_from_thread
-get_script_function
-get_script_hash
-get_scripts
-get_thread_context
-get_thread_identity
-get_user_data_tag
-getactorfromthread
-getactors
-getactorthreads
-getallreplicatesignals
-getallthreads
-getcallbackmember
-getcallbackvalue
-getcaller
-getcallingscript
-getcbvalue
-getclipboard
-getconnections
-getconstant
-getconstants
-getcontext
-getcurrentline
-getcustomasset
-getexecutorname
-getfflag
-getfpscap
-getfunctionhash
-getgc
-getgenv
-gethiddengui
-gethiddenproperties
-gethiddenproperty
-gethiddenui
-gethui
-gethwid
-getidentity
-getinfo
-getinstances
-getloadedmodules
-getmenv
-getmodules
-getnamecallmethod
-getnilinstances
-getobjects
-getproperties
-getproto
-getprotos
-getproximitypromptduration
-getrawmetatable
-getreg
-getregistry
-getrenderproperty
-getrendersteppedlist
-getrenv
-getrenvglobal
-getrenvshared
-getrunningscripts
-getsafedir
-getscriptbytecode
-getscriptcaller
-getscriptclosure
-getscriptenvs
-getscriptfromthread
-getscriptfunction
-getscripthash
-getscripts
-getscriptsthatrun
-getsenv
-getsignalarguments
-getsignalargumentsinfo
-getsignalwhitelist
-getsimulationradius
-getstack
-getstateenv
-getsynasset
-gettenv
-getthreadcontext
-getthreadidentity
-getthreadscript
-getupvalue
-getupvalues
-getuserdatatag
-glooperror
-hookfunc
-hookfunction
-hookmetamethod
-hooksignal
-http.http_request
-http.request
-http_request
-httpget
-httppost
-identifyexecutor
-infouiconsole
-is_c_closure
-isnewcclosure
-is_delta_closure
-is_eclipse_closure
-is_executor_closure
-is_fluxus_closure
-is_fluxus_function
-is_function_hooked
-is_krnl_closure
-is_l_closure
-is_our_closure
-is_parallel
-is_protosmasher_closure
-is_scriptable
-is_secured_instance
-is_synapse_function
-iscclosure
-isconnectionenabled
-isdeltafunction
-isexecutorclosure
-isfile
-isfluxusclosure
-isfluxusfunction
-isfolder
-isfunctionhooked
-isgameactive
-ishooked
-iskeydown
-islclosure
-islineinfo
-islocalsourcecontainer
-isnetworkowner
-isourcallstack
-isourclosure
-isparallel
-isrbxactive
-isreadonly
-isrenderobj
-isscriptable
-issecuredinstance
-issignalhooked
-issynapsefunction
-isvalidlevel
-iswindowactive
-iswritable
-iswriteable
-iy
-keyclick
-keypress
-keyrelease
-keytap
-listfiles
-load
-loadfile
-loadstring
-lockassetsignal
-logerror
-loginfo
-logprint
-logwarn
-lz4compress
-lz4decompress
-make_readonly
-make_writable
-make_writeable
-makefolder
-makereadonly
-makewritable
-makewriteable
-messagebox
-mouse1click
-mouse1press
-mouse1release
-mouse2click
-mouse2press
-mouse2release
-mousemoveabs
-mousemoverel
-mousescroll
-new_c_closure
-newcclosure
-newlclosure
-pibble.getpibbles
-pibble.gmail
-pibble.is_detected
-pibble.is_pibble
-pibble.washington
-printdebug
-printuiconsole
-printuierror
-printuiwarn
-protectclosure
-protectfunction
-queue_on_teleport
-queueonteleport
-raknet.add_receive_hook
-raknet.add_send_hook
-raknet.buffer_to_string
-raknet.clear_all_receive_hooks
-raknet.clear_all_send_hooks
-raknet.receive
-raknet.send
-rconsoleclear
-rconsolecreate
-rconsoledestroy
-rconsoleerr
-rconsoleerror
-rconsolehide
-rconsoleinfo
-rconsoleinput
-rconsolename
-rconsoleprint
-rconsolesettitle
-rconsoleshow
-rconsolewarn
-readfile
-replaceclosure
-replacefunc
-replacefunction
-replicatesignal
-request
-require
-restoreclosure
-restorefunc
-restorefunction
-restoresignal
-run_on_actor
-runcode
-save_instance
-saveinstance
-set_clipboard
-set_fps_cap
-set_hidden_property
-set_namecall_method
-set_normal_instance
-set_scriptable
-set_secure_instance
-set_thread_context
-set_thread_identity
-setstackhidden
-setclipboard
-setclosurecaps
-setclosureidentity
-setconstant
-setcontext
-setfflag
-setfpscap
-sethiddenproperty
-setidentity
-setnamecallmethod
-setnormalinstance
-setproximitypromptduration
-setrawmetatable
-setrbxclipboard
-setreadonly
-setrenderproperty
-setscriptable
-setsecureinstance
-setsimulationradius
-setstack
-setthreadcontext
-setthreadidentity
-setupvalue
-show_toast
-signal.new
-synsaveinstance
-to_clipboard
-toclipboard
-validlevel
-warnuiconsole
-writefile
-zstdcompress
-zstddecompress
-raknet.desync
+--[[ Delta X – 🔴 Arceus X – 🟠 CodeX – 🟡 Vega X – 🟢 Trigon – 🔵 Eclipse – 🟣]] 
+debug.getproto --[[🟢🟣🔵🔴🟠🟡]]
+bit.arshift --[[🟢🟣🔵🔴🟠🟡]]
+Delta.is_android --[[🔴]]
+rconsolehide --[[🟢🔵🔴🟠🟡]]
+debug.GetProtos --[[🟣]]
+cansignalreplicate --[[🟢🔵🔴🟡]]
+queue_on_teleport --[[🟢🟣🔵🔴🟠🟡]]
+lz4decompress --[[🟢🟣🔵🔴🟠🟡]]
+get_script_bytecode --[[🟣]]
+is_fluxus_closure --[[🟢🔵🟠🟡]]
+keytap --[[🟢🔵🔴🟠🟡]]
+getcallingscript --[[🟢🟣🔵🔴🟠🟡]]
+getallthreads --[[🟢🔵🔴🟠🟡]]
+getrenv --[[🟢🟣🔵🔴🟠🟡]]
+Mouse1Click --[[🟣]]
+newcclosure --[[🟢🟣🔵🔴🟠🟡]]
+request --[[🟢🟣🔵🔴🟠🟡]]
+is_c_closure --[[🟢🟣🔵🔴🟠🟡]]
+arceus.getversion --[[🔵]]
+setscriptable --[[🟢🟣🔵🔴🟠🟡]]
+getmodules --[[🟢🔵🟠🟡]]
+ListFiles --[[🟣]]
+mousescroll --[[🟢🟣🔵🔴🟠🟡]]
+replicatesignal --[[🟢🟣🔵🔴🟠🟡]]
+debug.getprotos --[[🟢🟣🔵🔴🟠🟡]]
+getproto --[[🟢🟣🔵🔴🟠🟡]]
+isrbxactive --[[🟢🟣🔵🔴🟠🟡]]
+deletefile --[[🟢🔵🟠🟡]]
+gethiddengui --[[🟣]]
+arceus.makearceusfolder --[[🔵]]
+cache.compareinstances --[[🟢🔵🟠🟡]]
+mousemoveabs --[[🟢🟣🔵🔴🟠🟡]]
+disableconnection --[[🟢🔵🟠🟡]]
+base64decode --[[🟢🟣🔵🔴🟠🟡]]
+arceus.getcreationtime --[[🔵]]
+ishooked --[[🟢🔵🔴🟠🟡]]
+gethiddenproperty --[[🟢🟣🔵🔴🟠🟡]]
+get_comm_channel --[[🟢🔵🔴🟠🟡]]
+bit.byteswap --[[🟣🔴]]
+bit.bor --[[🟢🟣🔵🔴🟠🟡]]
+getnilinstances --[[🟢🟣🔵🔴🟠🟡]]
+Duration.FromMilliseconds --[[🔴]]
+iscclosure --[[🟢🟣🔵🔴🟠🟡]]
+IsKeyDown --[[🟣]]
+Raknet.desync --[[🔴]]
+get_hidden_gui --[[🟢🟣🔵🔴🟠🟡]]
+iskeydown --[[🟣]]
+DelFile --[[🟣]]
+setstack --[[🟢🟣🔵🔴🟠🟡]]
+HttpGet --[[🟣]]
+GetProtos --[[🟣]]
+sethiddenproperty --[[🟢🟣🔵🔴🟠🟡]]
+debug.getregistry --[[🟢🟣🔵🔴🟠🟡]]
+getconstant --[[🟢🟣🔵🔴🟠🟡]]
+MakeWritable --[[🟣]]
+iswritable --[[🟢🔵🟠🟡]]
+printuiwarn --[[🟢🔵🟠🟡]]
+debug.isvalidlevel --[[🟢🔵🔴🟠🟡]]
+crypt.base64_encode --[[🟢🟣🔵🔴🟠🟡]]
+issynapsefunction --[[🟢🔵🟠🟡]]
+getscriptfromthread --[[🟢🟣🔵🔴🟠🟡]]
+get_hidden_ui --[[🟣]]
+setrenderproperty --[[🟢🟣🔵🔴🟠🟡]]
+consoleerror --[[🟢🔵🟠🟡]]
+debug.GetUpvalues --[[🟣]]
+setconstant --[[🟢🟣🔵🔴🟠🟡]]
+clone_reference --[[🟣]]
+setsecureinstance --[[🟢🔵🟠🟡]]
+getloadedmodules --[[🟢🟣🔵🔴🟠🟡]]
+SetConstant --[[🟣]]
+gethiddenui --[[🟣]]
+getsignalargumentsinfo --[[🟢🔵🔴🟡]]
+http.request --[[🟢🟣🔵🔴🟠🟡]]
+getrenderproperty --[[🟢🟣🔵🔴🟠🟡]]
+KeyDown --[[🟣]]
+getobjects --[[🟣🔴]]
+consoleprint --[[🟢🔵🔴🟠🟡]]
+printuierror --[[🟢🔵🟠🟡]]
+debug.setstack --[[🟢🟣🔵🔴🟠🟡]]
+debug.GetUpvalue --[[🟣]]
+GetConstant --[[🟣]]
+arceus.show_toast --[[🟠]]
+islineinfo --[[🟢🔵🟠🟡]]
+LoadFile --[[🟣]]
+getuserdatatag --[[🟣]]
+raknet.add_receive_hook --[[🟢🔵🟠🟡]]
+setclosureidentity --[[🟢🔵🟠🟡]]
+keyrelease --[[🟢🟣🔵🔴🟠🟡]]
+arceus.WHWKIIIIWIIOSU --[[🔵]]
+WebSocket.Connect --[[🟣]]
+makewritable --[[🟢🟣🔵🟠🟡]]
+debug.profilebegin --[[🟢🟣🔵🔴🟠🟡]]
+Signal.new --[[🟢🔵🔴🟡]]
+base64_decode --[[🟢🟣🔵🔴🟠🟡]]
+getgamestate --[[🔴]]
+islclosure --[[🟢🟣🔵🔴🟠🟡]]
+debug.GetInfo --[[🟣]]
+server.has_authority --[[🔴]]
+getscriptbytecode --[[🟢🟣🔵🔴🟠🟡]]
+detour_function --[[🟢🔵🔴🟠🟡]]
+debug.getrawmetatable --[[🟢🔵🟠🟡]]
+base64.encode --[[🟢🟣🔵🔴🟠🟡]]
+setfpscap --[[🟢🟣🔵🔴🟠🟡]]
+setstackhidden --[[🔴]]
+Delta.architecture_str --[[🔴]]
+is_executor_closure --[[🟢🟣🔵🔴🟠🟡]]
+get_fps_cap --[[🟣🔴]]
+crypt.base64.decode --[[🟢🟣🔵🔴🟠🟡]]
+getmenv --[[🟢🟣🔵🔴🟠🟡]]
+raknet.buffer_to_string --[[🟢🔵🟠🟡]]
+set_fps_cap --[[🟣🔴]]
+getcallbackvalue --[[🟢🟣🔵🔴🟠🟡]]
+pibble.gmail --[[🔴]]
+firesignal --[[🟢🟣🔵🔴🟠🟡]]
+setrawmetatable --[[🟢🟣🔵🔴🟠🟡]]
+restoresignal --[[🟢🔵🟠🟡]]
+isscriptable --[[🟢🟣🔵🔴🟠🟡]]
+MouseMoveRelative --[[🟣]]
+rconsolesettitle --[[🟢🔵🔴🟠🟡]]
+hookmetamethod --[[🟢🟣🔵🔴🟠🟡]]
+get_actors --[[🟢🔵🔴🟠🟡]]
+getrawmetatable --[[🟢🟣🔵🔴🟠🟡]]
+make_writable --[[🟢🟣🔵🟠🟡]]
+is_krnl_closure --[[🟢🔵🟠🟡]]
+load --[[🟣]]
+Input.KeyPress --[[🟢🔵🟠🟡]]
+setthreadcontext --[[🟢🟣🔵🔴🟠🟡]]
+rconsoleerror --[[🟢🔵🟠🟡]]
+issignalhooked --[[🟢🔵🟠🟡]]
+bit.badd --[[🟢🔵🟠🟡]]
+get_instances --[[🟢🟣🔵🟠🟡]]
+fire_touch_interest --[[🟣]]
+debug.setrawmetatable --[[🟢🔵🟠🟡]]
+getthreadcontext --[[🟢🟣🔵🔴🟠🟡]]
+getsignalarguments --[[🟢🔵🔴🟡]]
+cloneref --[[🟢🟣🔵🔴🟠🟡]]
+loadstring --[[🟢🟣🔵🔴🟠🟡]]
+debug.GetConstant --[[🟣]]
+hookfunction --[[🟢🟣🔵🔴🟠🟡]]
+actor.is_parallel --[[🟢🔵🟠🟡]]
+getluastate --[[🔴]]
+mouse2release --[[🟢🔵🔴🟠🟡]]
+debug.getupvalue --[[🟢🟣🔵🔴🟠🟡]]
+rconsoleinfo --[[🟢🔵🔴🟠🟡]]
+rconsolename --[[🟢🔵🔴🟠🟡]]
+WebSocket.prepare_connect --[[🔴]]
+synsaveinstance --[[🟢🔵🟡]]
+getupvalue --[[🟢🟣🔵🔴🟠🟡]]
+IsFile --[[🟣]]
+setidentity --[[🟢🟣🔵🔴🟠🟡]]
+Drawing.new --[[🟢🟣🔵🔴🟠🟡]]
+set_clipboard --[[🟣]]
+consoleinfo --[[🟢🔵🟠🟡]]
+setupvalue --[[🟢🟣🔵🔴🟠🟡]]
+isfolder --[[🟢🟣🔵🔴🟠🟡]]
+pibble.washington --[[🔴]]
+identifyexecutor --[[🟢🟣🔵🔴🟠🟡]]
+fire_signal --[[🟣]]
+runcode --[[🟢🔵🟠🟡]]
+GetGenv --[[🟣]]
+dumpstring --[[🟢🟣🔵🔴🟠🟡]]
+iswriteable --[[🟢🔵🟠🟡]]
+bit.band --[[🟢🟣🔵🔴🟠🟡]]
+rconsoleclear --[[🟢🔵🔴🟠🟡]]
+Duration.FromSeconds --[[🔴]]
+consoleerr --[[🟢🔵🟠🟡]]
+replacefunc --[[🟢🔵🔴🟠🟡]]
+Mouse1Press --[[🟣]]
+debug.setupvalue --[[🟢🟣🔵🔴🟠🟡]]
+getinfo --[[🟢🟣🔵🔴🟠🟡]]
+consolewarn --[[🟢🔵🟠🟡]]
+loadfile --[[🟢🟣🔵🔴🟠🟡]]
+DelFolder --[[🟣]]
+HookMetaMethod --[[🟣]]
+arceus.delarceusfolder --[[🔵]]
+create_secure_folder --[[🟢🔵🟠🟡]]
+is_synapse_function --[[🟢🔵🟠🟡]]
+checkcaller --[[🟢🟣🔵🔴🟠🟡]]
+new_c_closure --[[🟣]]
+protectclosure --[[🟢🔵🟠🟡]]
+debug.loadmodule --[[🟢🟣🔵🔴🟠🟡]]
+isfluxusfunction --[[🟢🔵🟠🟡]]
+checkclosure --[[🟢🟣🔵🔴🟠🟡]]
+debug.getinfo --[[🟢🟣🔵🔴🟠🟡]]
+get_running_scripts --[[🟣]]
+compareinstances --[[🟢🟣🔵🔴🟠🟡]]
+delfile --[[🟢🟣🔵🔴🟠🟡]]
+mouse1release --[[🟢🟣🔵🔴🟠🟡]]
+is_l_closure --[[🟢🟣🔵🔴🟠🟡]]
+bit.bmul --[[🟢🔵🟠🟡]]
+getthreadidentity --[[🟢🟣🔵🔴🟠🟡]]
+WriteFile --[[🟣]]
+hookfunc --[[🟢🔵🔴🟠🟡]]
+get_calling_script --[[🟢🟣🔵🟠🟡]]
+WebSocket.connect --[[🟢🟣🔵🔴🟠🟡]]
+crypt.base64.encode --[[🟢🟣🔵🔴🟠🟡]]
+arceus.WHWKIWIIOSU --[[🔵]]
+islocalsourcecontainer --[[🟢🔵🟠🟡]]
+get_loaded_modules --[[🟣]]
+DoFile --[[🟣]]
+debug.dumpheap --[[🟢🟣🔵🔴🟠🟡]]
+getrenvshared --[[🟢🔵🟠🟡]]
+pibble.is_detected --[[🔴]]
+appendfile --[[🟢🟣🔵🔴🟠🟡]]
+cache.replace --[[🟢🟣🔵🔴🟠🟡]]
+consoleclear --[[🟢🔵🔴🟠🟡]]
+getgc --[[🟢🟣🔵🔴🟠🟡]]
+_G.toggleMain --[[🔵]]
+GetClipBoard --[[🟣]]
+dofile --[[🟢🟣🔵🔴🟠🟡]]
+cache.cloneref --[[🟢🔵🟠🟡]]
+IsFolder --[[🟣]]
+SetStack --[[🟣]]
+Delta.architecture --[[🔴]]
+getclipboard --[[🟢🟣🔵🟠🟡]]
+Delta.is_mac --[[🔴]]
+fromclipboard --[[🟢🔵🟠🟡]]
+KeyRelease --[[🟣]]
+crypt.generatekey --[[🟢🟣🔵🔴🟠🟡]]
+clear_teleport_queue --[[🟢🔵🔴🟠🟡]]
+protectfunction --[[🟢🔵🟠🟡]]
+consolecreate --[[🟢🔵🔴🟠🟡]]
+getexecutorname --[[🟢🟣🔵🔴🟠🟡]]
+rconsoleprint --[[🟢🔵🔴🟠🟡]]
+getallactors --[[🔴]]
+loginfo --[[🟢🔵🟠🟡]]
+crypt.hash --[[🟢🟣🔵🔴🟠🟡]]
+debug.getstack --[[🟢🟣🔵🔴🟠🟡]]
+crypt.base64_decode --[[🟢🟣🔵🔴🟠🟡]]
+mouse1press --[[🟢🟣🔵🔴🟠🟡]]
+Duration.FromDays --[[🔴]]
+arceus.deletecustomasset --[[🔵]]
+debug.SetStack --[[🟣]]
+toclipboard --[[🟢🟣🔵🔴🟠🟡]]
+Delta.version --[[🔴]]
+GetInfo --[[🟣]]
+Mouse1Release --[[🟣]]
+debug.getupvalues --[[🟢🟣🔵🔴🟠🟡]]
+Drawing.cleardrawcache --[[🟣]]
+isexecutorclosure --[[🟢🟣🔵🔴🟠🟡]]
+clone_ref --[[🟣]]
+getrendersteppedlist --[[🔴]]
+isfile --[[🟢🟣🔵🔴🟠🟡]]
+bit.bswap --[[🟢🔵🟠🟡]]
+arceus.readarceusfile --[[🔵]]
+make_readonly --[[🟢🟣🔵🔴🟠🟡]]
+KeyPress --[[🟣]]
+_G.load_rs_scripts --[[🔵]]
+debug.SetConstant --[[🟣]]
+bit.tohex --[[🟢🔵🟠🟡]]
+AppendFile --[[🟣]]
+mouse1click --[[🟢🟣🔵🔴🟠🟡]]
+rnet.is_enabled --[[🔴]]
+QWIKEWJWOAZOAOSXKEUIEOWJMZAJZHNXKJCBUFOEN --[[🟢🔵🟠🟡]]
+pibble.getpibbles --[[🔴]]
+isrenderobj --[[🟢🟣🔵🔴🟠🟡]]
+makereadonly --[[🟢🟣🔵🔴🟠🟡]]
+raknet.clear_all_send_hooks --[[🟢🔵🟠🟡]]
+isvalidlevel --[[🟢🔵🔴🟠🟡]]
+restorefunction --[[🟢🟣🔵🔴🟠🟡]]
+get_scripts --[[🟢🔵🟠🟡]]
+getactorstates --[[🔴]]
+GetStack --[[🟣]]
+setclipboard --[[🟢🟣🔵🔴🟠🟡]]
+isreadonly --[[🟢🟣🔵🔴🟠🟡]]
+base64encode --[[🟢🟣🔵🔴🟠🟡]]
+actor.run_on_actor --[[🟢🔵🟠🟡]]
+writefile --[[🟢🟣🔵🔴🟠🟡]]
+base64_encode --[[🟢🟣🔵🔴🟠🟡]]
+set_secure_instance --[[🟢🔵🟠🟡]]
+bit.btest --[[🟣🔴]]
+clear_drawing_lib --[[🟣]]
+GetConstants --[[🟣]]
+lockassetsignal --[[🟢🔵🟠🟡]]
+arceus.writearceusfile --[[🔵]]
+getscriptclosure --[[🟢🟣🔵🔴🟠🟡]]
+LuaStateProxy.new --[[🔴]]
+set_namecall_method --[[🟢🟣🔵🟠🟡]]
+Input.RightClick --[[🟢🔵🟠🟡]]
+getfenv --[[🔴]]
+infouiconsole --[[🟢🔵🟠🟡]]
+bit.tobit --[[🟢🔵🟠🟡]]
+pibble.is_pibble --[[🔴]]
+bit.rrotate --[[🟣🔴]]
+debug.dumprefs --[[🟢🟣🔵🔴🟠🟡]]
+emulate_call --[[🟢🔵🟠🟡]]
+getinstances --[[🟢🟣🔵🔴🟠🟡]]
+firetouchinterest --[[🟢🟣🔵🔴🟠🟡]]
+arceus.delarceusfile --[[🔵]]
+erroruiconsole --[[🟢🔵🟠🟡]]
+crypt.decrypt --[[🟢🟣🔵🔴🟠🟡]]
+is_our_closure --[[🟢🔵🔴🟠🟡]]
+get_modules --[[🟢🔵🟠🟡]]
+printdebug --[[🟢🔵🟠🟡]]
+run_on_actor --[[🟢🔵🔴🟠🟡]]
+validlevel --[[🟢🔵🔴🟠🟡]]
+newlclosure --[[🟢🔵🔴🟠🟡]]
+printuiconsole --[[🟢🔵🟠🟡]]
+zstdcompress --[[🟢🔵🟠🟡]]
+delfolder --[[🟢🟣🔵🔴🟠🟡]]
+listfiles --[[🟢🟣🔵🔴🟠🟡]]
+Duration.FromMonths --[[🔴]]
+getscripthash --[[🟢🟣🔵🔴🟠🟡]]
+CheckCaller --[[🟣]]
+set_thread_context --[[🟢🟣🔵🔴🟠🟡]]
+require --[[🟢🟣🔵🟠🟡]]
+getObjects --[[🟣]]
+Input.ScrollMouse --[[🟢🔵🟠🟡]]
+executeclipboard --[[🟢🔵🟠🟡]]
+setnormalinstance --[[🟢🔵🟠🟡]]
+debug.traceback --[[🟢🟣🔵🔴🟠🟡]]
+get_thread_context --[[🟢🔵🔴🟠🟡]]
+getstateenv --[[🟢🔵🟠🟡]]
+GetUpvalue --[[🟣]]
+Input.KeyUp --[[🟢🔵🟠🟡]]
+cache.iscached --[[🟢🟣🔵🔴🟠🟡]]
+lz4compress --[[🟢🟣🔵🔴🟠🟡]]
+get_gc_objects --[[🟢🔵🟠🟡]]
+Regex.Escape --[[🔴]]
+GetObjects --[[🟣]]
+isfluxusclosure --[[🟢🔵🟠🟡]]
+setclosurecaps --[[🟢🔵🟠🟡]]
+MouseMoveRel --[[🟣]]
+rconsolecreate --[[🟢🔵🔴🟠🟡]]
+http.http_request --[[🟣]]
+isexecutorthread --[[🔴]]
+Duration.FromHours --[[🔴]]
+rconsoleshow --[[🟢🔵🔴🟠🟡]]
+DeltaSignal.new --[[🔴]]
+iswindowactive --[[🟢🟣🔵🔴🟠🟡]]
+getsimulationradius --[[🔴]]
+getcbvalue --[[🔴]]
+glooperror --[[🔴]]
+getsafedir --[[🔴]]
+ReadFile --[[🟣]]
+getscriptthread --[[🔴]]
+isdeltafunction --[[🔴]]
+iscustomcclosure --[[🔴]]
+is_delta_closure --[[🔴]]
+makefolder --[[🟢🟣🔵🔴🟠🟡]]
+Delta.is_ios --[[🔴]]
+rnet.desync --[[🔴]]
+set_hidden_property --[[🟣]]
+getscriptsthatrun --[[🔴]]
+is_fluxus_function --[[🟢🔵🟠🟡]]
+detourfunction --[[🟢🔵🔴🟠🟡]]
+getproperties --[[🔴]]
+debug.getmemorycategory --[[🟢🟣🔵🔴🟠🟡]]
+Delta.get_platform --[[🔴]]
+Delta.version_hash --[[🔴]]
+Delta.version_num --[[🔴]]
+Delta.roblox_version --[[🔴]]
+getfflag --[[🟢🔵🔴🟠🟡]]
+Delta.is_vng --[[🔴]]
+isnewcclosure --[[🔴]]
+checkparallel --[[🔴]]
+arceus.deletearceusfolder --[[🔵]]
+consoledestroy --[[🟢🔵🔴🟠🟡]]
+debug.GetConstants --[[🟣]]
+debug.getmetatable --[[🟢🔵🔴🟠🟡]]
+GetGC --[[🟣]]
+isgameactive --[[🟢🟣🔵🔴🟠🟡]]
+get_hidden_property --[[🟣]]
+bit.countlz --[[🟣🔴]]
+setfflag --[[🟢🔵🔴🟠🟡]]
+RakNet.desync --[[🔴]]
+arceus.WHWKIIIWIIOSU --[[🔵]]
+Regex.new --[[🔴]]
+actor.run --[[🟢🔵🟠🟡]]
+get_connections --[[🟣]]
+Duration.TimeSinceEpoch --[[🔴]]
+Duration.FromMinutes --[[🔴]]
+createsecurefolder --[[🟢🔵🟠🟡]]
+Duration.FromNanoseconds --[[🔴]]
+decompile --[[🟢🟣🔵🔴🟠🟡]]
+Duration.FromYears --[[🔴]]
+gethiddenproperties --[[🔴]]
+signal.new --[[🟢🔵🟠🟡]]
+raknet.add_send_hook --[[🟢🔵🟠🟡]]
+show_toast --[[🟠]]
+isfunctionhooked --[[🟢🔵🔴🟠🟡]]
+bit.lrotate --[[🟣🔴]]
+httppost --[[🔴]]
+getmousepos --[[🔴]]
+replacefunction --[[🟢🔵🔴🟠🟡]]
+getallreplicatesignals --[[🟢🔵🟡]]
+setproximitypromptduration --[[🔴]]
+raknet.desync --[[🔴]]
+arceus.writecustomasset --[[🔵]]
+arceus.UJSWOOALSKDSJEO --[[🔵]]
+getproximitypromptduration --[[🔴]]
+MouseMove --[[🟣]]
+arceus.openurl --[[🔵]]
+getrenvglobal --[[🟢🔵🟠🟡]]
+arceus.listarceusfiles --[[🔵]]
+arceus.ispermissiongranted --[[🔵]]
+arceus.iscustomasset --[[🔵]]
+arceus.isarceusfolder --[[🔵]]
+arceus.isarceusfile --[[🔵]]
+arceus.is_vng --[[🔵]]
+clonefunction --[[🟢🟣🔵🔴🟠🟡]]
+arceus.getmodificationtime --[[🔵]]
+arceus.getfilesize --[[🔵]]
+gethwid --[[🟢🔵🔴🟠🟡]]
+crypt.random --[[🟢🔵🔴🟠🟡]]
+debug.validlevel --[[🟢🔵🔴🟠🟡]]
+arceus.retrievecustomasset --[[🔵]]
+GetUpvalues --[[🟣]]
+getscriptenvs --[[🟢🔵🟠🟡]]
+isconnectionenabled --[[🟢🔵🟠🟡]]
+arceus.deletearceusfile --[[🔵]]
+isourcallstack --[[🟢🔵🟠🟡]]
+messagebox --[[🟢🔵🔴🟠🟡]]
+arceus.crash --[[🔵]]
+to_clipboard --[[🟣]]
+arceus.WOWPALAKSZMNXBRU --[[🔵]]
+arceus.WHWKIWIOSU --[[🔵]]
+arceus.WHWKIIWIIOSU --[[🔵]]
+consolesettitle --[[🟢🔵🔴🟠🟡]]
+Raknet.is_enabled --[[🔴]]
+MakeReadonly --[[🟣]]
+httpget --[[🔴]]
+bit.rshift --[[🟢🟣🔵🔴🟠🟡]]
+Duration.FromMicroseconds --[[🔴]]
+http_request --[[🟢🟣🔵🔴🟠🟡]]
+arceus.SDKEUIEWOWOASKS --[[🔵]]
+arceus.EOWOWQPQPPALSKSNX --[[🔵]]
+create_comm_channel --[[🟢🔵🔴🟠🟡]]
+debug.profileend --[[🟢🟣🔵🔴🟠🟡]]
+isourclosure --[[🟢🟣🔵🔴🟠🟡]]
+_G.clearScriptContainer --[[🔵]]
+getcaller --[[🟢🔵🟠🟡]]
+_G.Spopup --[[🔵]]
+getscripts --[[🟢🟣🔵🔴🟠🟡]]
+debug.GetProto --[[🟣]]
+set_normal_instance --[[🟢🔵🟠🟡]]
+debug.info --[[🟢🟣🔵🔴🟠🟡]]
+dump_string --[[🟣]]
+set_scriptable --[[🟣]]
+cache.is_cached --[[🟣]]
+keypress --[[🟢🟣🔵🔴🟠🟡]]
+bit.bxor --[[🟢🟣🔵🔴🟠🟡]]
+crypt.hmac --[[🟢🔵🔴🟠🟡]]
+arceus.encrypted --[[🔵]]
+getupvalues --[[🟢🟣🔵🔴🟠🟡]]
+MouseMoveAbs --[[🟣]]
+getstack --[[🟢🟣🔵🔴🟠🟡]]
+issecuredinstance --[[🟢🔵🟠🟡]]
+is_scriptable --[[🟣]]
+makewriteable --[[🟢🔵🔴🟠🟡]]
+is_eclipse_closure --[[🟣]]
+raknet.is_enabled --[[🔴]]
+enableconnection --[[🟢🔵🟠🟡]]
+hook_meta_method --[[🟣]]
+getregistry --[[🟢🟣🔵🟠🟡]]
+consoleshow --[[🟢🔵🟠🟡]]
+debug.GetStack --[[🟣]]
+get_user_data_tag --[[🟣]]
+is_function_hooked --[[🔴]]
+debug.dumpcodesize --[[🟢🟣🔵🔴🟠🟡]]
+Input.KeyDown --[[🟢🔵🟠🟡]]
+get_script_from_thread --[[🟣]]
+gettenv --[[🟢🔵🟠🟡]]
+GetRenv --[[🟣]]
+cache.invalidate --[[🟢🟣🔵🔴🟠🟡]]
+get_script_closure --[[🟣]]
+getcallbackmember --[[🟢🟣🔵🔴🟠🟡]]
+get_objects --[[🟣]]
+getprotos --[[🟢🟣🔵🔴🟠🟡]]
+logwarn --[[🟢🔵🟠🟡]]
+getactors --[[🟢🔵🔴🟠🟡]]
+fire_proximity_prompt --[[🟣]]
+Stopwatch.new --[[🔴]]
+getconnections --[[🟢🟣🔵🔴🟠🟡]]
+bit.replace --[[🟣🔴]]
+crypt.base64encode --[[🟢🟣🔵🔴🟠🟡]]
+rconsoledestroy --[[🟢🔵🔴🟠🟡]]
+crypt.lz4compress --[[🟢🔵🔴🟠🟡]]
+executecode --[[🟢🔵🟠🟡]]
+debug.resetmemorycategory --[[🟢🟣🔵🔴🟠🟡]]
+deletefolder --[[🟢🔵🔴🟠🟡]]
+Input.LeftClick --[[🟢🔵🟠🟡]]
+filtergc --[[🟢🟣🔵🔴🟠🟡]]
+setsimulationradius --[[🟢🔵🔴🟠🟡]]
+get_clip_board --[[🟣]]
+MakeFolder --[[🟣]]
+get_callback_value --[[🟣]]
+clearteleportqueue --[[🟢🔵🔴🟠🟡]]
+filter_gc --[[🟢🟣🔵🟠🟡]]
+actor.get_actors --[[🟢🔵🟠🟡]]
+fire_click_detector --[[🟣]]
+is_parallel --[[🟢🔵🟠🟡]]
+saveinstance --[[🟢🔵🟡]]
+restorefunc --[[🟢🔵🔴🟠🟡]]
+crypt.generatebytes --[[🟢🟣🔵🔴🟠🟡]]
+actor.getactors --[[🟢🔵🟠🟡]]
+getconstants --[[🟢🟣🔵🔴🟠🟡]]
+Drawing.clear --[[🟢🟣🔵🟠🟡]]
+debug.GetRegistry --[[🟣]]
+getthreadscript --[[🟢🔵🟠🟡]]
+isnetworkowner --[[🟢🔵🔴🟠🟡]]
+base64.decode --[[🟢🟣🔵🔴🟠🟡]]
+RakNet.is_enabled --[[🔴]]
+crypt.base64decode --[[🟢🟣🔵🔴🟠🟡]]
+DevConnect --[[🟢]]
+cleardrawcache --[[🟢🟣🔵🔴🟠🟡]]
+debug.getconstants --[[🟢🟣🔵🔴🟠🟡]]
+readfile --[[🟢🟣🔵🔴🟠🟡]]
+getsynasset --[[🟢🔵🟠🟡]]
+gethui --[[🟢🟣🔵🔴🟠🟡]]
+setnamecallmethod --[[🟢🟣🔵🔴🟠🟡]]
+getgenv --[[🟢🟣🔵🔴🟠🟡]]
+hooksignal --[[🟢🔵🟠🟡]]
+debug.setmetatable --[[🟢🔵🔴🟠🟡]]
+debug.SetUpvalue --[[🟣]]
+bit.rol --[[🟢🔵🟠🟡]]
+bit.extract --[[🟣🔴]]
+bit.ror --[[🟢🔵🟠🟡]]
+raknet.clear_all_receive_hooks --[[🟢🔵🟠🟡]]
+crypt.encrypt --[[🟢🟣🔵🔴🟠🟡]]
+getcustomasset --[[🟢🟣🔵🔴🟠🟡]]
+replaceclosure --[[🟢🟣🔵🔴🟠🟡]]
+getnamecallmethod --[[🟢🟣🔵🔴🟠🟡]]
+bit.countrz --[[🟣🔴]]
+logerror --[[🟢🔵🟠🟡]]
+getscriptcaller --[[🟢🔵🟠🟡]]
+raknet.send --[[🟢🔵🟠🟡]]
+fireproximityprompt --[[🟢🟣🔵🔴🟠🟡]]
+get_nil_instances --[[🟢🟣🔵🔴🟠🟡]]
+SetUpvalue --[[🟣]]
+get_script_function --[[🟢🟣🔵🟠🟡]]
+get_script_hash --[[🟣]]
+MouseScroll --[[🟣]]
+crypt.lz4decompress --[[🟢🔵🔴🟠🟡]]
+Input.MoveMouse --[[🟢🔵🟠🟡]]
+MouseMoveABS --[[🟣]]
+get_namecall_method --[[🟢🔵🟠🟡]]
+fireclickdetector --[[🟢🟣🔵🔴🟠🟡]]
+debug.setproto --[[🟢🔵🟠🟡]]
+queueonteleport --[[🟢🟣🔵🔴🟠🟡]]
+GetProto --[[🟣]]
+is_protosmasher_closure --[[🟢🔵🟠🟡]]
+bit.bnot --[[🟢🟣🔵🔴🟠🟡]]
+zstddecompress --[[🟢🔵🟠🟡]]
+debug.setconstant --[[🟢🟣🔵🔴🟠🟡]]
+mousemoverel --[[🟢🟣🔵🔴🟠🟡]]
+_G.popup --[[🔵]]
+warnuiconsole --[[🟢🔵🟠🟡]]
+getscriptfunction --[[🟢🟣🔵🔴🟠🟡]]
+set_thread_identity --[[🟢🟣🔵🔴🟠🟡]]
+logprint --[[🟢🔵🟠🟡]]
+is_secured_instance --[[🟢🔵🟠🟡]]
+setthreadidentity --[[🟢🟣🔵🔴🟠🟡]]
+restoreclosure --[[🟢🔵🔴🟠🟡]]
+bit.bsub --[[🟢🔵🟠🟡]]
+bit.bdiv --[[🟢🔵🟠🟡]]
+setreadonly --[[🟢🟣🔵🔴🟠🟡]]
+setrbxclipboard --[[🟢🟣🔵🔴🟠🟡]]
+clonefunc --[[🟢🟣🔵🔴🟠🟡]]
+get_thread_identity --[[🟢🟣🔵🔴🟠🟡]]
+getrunningscripts --[[🟢🟣🔵🔴🟠🟡]]
+save_instance --[[🟢🔵🟡]]
+rconsolewarn --[[🟢🔵🔴🟠🟡]]
+rconsoleerr --[[🟢🔵🔴🟠🟡]]
+debug.setmemorycategory --[[🟢🟣🔵🔴🟠🟡]]
+mouse2click --[[🟢🔵🔴🟠🟡]]
+getfunctionhash --[[🟢🟣🔵🔴🟠🟡]]
+getcurrentline --[[🟢🔵🟠🟡]]
+raknet.receive --[[🟢🔵🟠🟡]]
+clonereference --[[🟢🟣🔵🟠🟡]]
+debug.getconstant --[[🟢🟣🔵🔴🟠🟡]]
+getsenv --[[🟢🟣🔵🔴🟠🟡]]
+actor.isparallel --[[🟢🔵🟠🟡]]
+mouse2press --[[🟢🔵🔴🟠🟡]]
+setcontext --[[🟢🔵🟠🟡]]
+make_writeable --[[🟢🔵🔴🟠🟡]]
+get_callback_member --[[🟣]]
+getcontext --[[🟢🔵🟠🟡]]
+rconsoleinput --[[🟢🔵🔴🟠🟡]]
+keyclick --[[🟢🔵🔴🟠🟡]]
+bit.lshift --[[🟢🟣🔵🔴🟠🟡]]
+getsignalwhitelist --[[🟢🔵🔴🟡]]
+isparallel --[[🟢🔵🔴🟠🟡]]
+clearqueueonteleport --[[🟢🔵🔴🟡]]
+consoleinput --[[🟢🔵🔴🟠🟡]]
+getfpscap --[[🟢🟣🔵🔴🟠🟡]]
+SJEIEWOWOQAPOAOAKSJM --[[🟢🔵🟠🟡]]
+getidentity --[[🟢🟣🔵🔴🟠🟡]]
+getreg --[[🟢🟣🔵🔴🟠🟡]]
