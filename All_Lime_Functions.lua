@@ -154,3 +154,15 @@ replicatesignal
 setthreadidentity
 setclipboard
 getcallbackvalue
+debug.getconstant
+debug.getproto
+debug.getstack
+debug.getupvalues
+debug.getupvalue
+debug.getconstants
+debug.getprotos
+debug.setstack
+debug.getinfo
+debug.setupvalue
+debug.setconstant
+debug.getregistry
