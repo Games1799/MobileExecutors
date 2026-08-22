@@ -372,3 +372,7 @@ warnuiconsole
 writefile
 zstdcompress
 zstddecompress
+game.HttpGet
+game.HttpGetAsync
+game.HttpPost
+game.HttpPostAsync
