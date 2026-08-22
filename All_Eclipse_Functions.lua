@@ -294,3 +294,4 @@ setupvalue
 to_clipboard
 toclipboard
 writefile
+game.HttpGet
