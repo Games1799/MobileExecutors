@@ -166,3 +166,4 @@ debug.getinfo
 debug.setupvalue
 debug.setconstant
 debug.getregistry
+game.HttpGet
