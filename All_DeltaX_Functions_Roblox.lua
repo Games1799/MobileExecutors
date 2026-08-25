@@ -106,6 +106,10 @@ request
 is_c_closure
 getthreadcontext
 isfunctionhooked
+Raknet.desync
+Raknet.is_enabled
+RakNet.desync
+RakNet.is_enabled
 replacefunction
 cloneref
 setproximitypromptduration
@@ -175,6 +179,8 @@ iscclosure
 keypress
 getproperties
 getscriptsthatrun
+rnet.desync
+rnet.is_enabled
 getupvalues
 get_hidden_gui
 rconsoleclear
@@ -220,6 +226,7 @@ isourclosure
 setrenderproperty
 getfunctionhash
 isexecutorclosure
+WebSocket.connect
 setconstant
 pibble.gmail
 pibble.is_detected
@@ -308,6 +315,7 @@ set_thread_identity
 clonereference
 setstackhidden
 get_destroyed_actors
+DeltaSignal.new
 is_executor_closure
 validlevel
 get_fps_cap
