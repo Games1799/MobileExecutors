@@ -154,6 +154,7 @@ replicatesignal
 setthreadidentity
 setclipboard
 getcallbackvalue
+replicatesignal
 debug.getconstant
 debug.getproto
 debug.getstack
