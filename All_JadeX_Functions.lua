@@ -84,3 +84,6 @@ getgenv
 newcclosure
 base64_decode
 debug.getconstants
+setidentity
+getidentity
+game.HttpGet
