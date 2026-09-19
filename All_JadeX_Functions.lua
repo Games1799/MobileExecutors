@@ -88,4 +88,6 @@ setidentity
 getidentity
 crypt.base64encode
 crypt.base64decode
+base64encode
+base64decode
 game.HttpGet
