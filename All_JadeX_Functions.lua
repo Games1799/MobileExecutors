@@ -86,4 +86,6 @@ base64_decode
 debug.getconstants
 setidentity
 getidentity
+crypt.base64encode
+crypt.base64decode
 game.HttpGet
