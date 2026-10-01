@@ -527,6 +527,9 @@ listfiles
 getfpscap
 error
 setclipboard
+hooksignal
+restoresignal
+issignalhooked
 __kawaii_private_roots.RuntimeView.loadstring
 __kawaii_private_roots.RuntimeView.printidentity
 __kawaii_private_roots.FileDialogObjectBridge
